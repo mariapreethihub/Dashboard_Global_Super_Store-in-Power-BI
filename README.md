@@ -17,7 +17,7 @@ This project involves several stages, including ETL (Extract, Transform, Load) u
 
 **Assignment-1  Basic Data Cleaning**
 
-To ensure data accuracy and consistency, the following data cleaning tasks were performed using Power BI’s Power Query Editor:
+To ensure data accuracy and consistency, the following data cleaning tasks were performed using Power Query Editor in Power BI:
 
 a.Identifed and removed unncessary columns that did not contribute to the analysis.
 
