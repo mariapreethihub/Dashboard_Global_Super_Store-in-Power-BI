@@ -5,7 +5,7 @@ The primary objective of this POWER BI project is to gain valuable insights into
 This project involves several stages, including ETL (Extract, Transform, Load) using Power Query, data modelling, DAX calculations, and data visualization.  
 
 
-**Dataset :** Global superstore.xlsx
+**Dataset :** Global Superstore.xlsx
 
 **Table of Contents:**
 
