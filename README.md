@@ -52,4 +52,50 @@
 
         c.Besides,new measures are created using aggregate function sum(),count() and distinctcount().
 
- 
+**Assigmment-3 Data Visualization:**
+        
+        A simple interactive dashboard report is created in Power BI.The report is structured using visualization charts and tables.
+        The final outlook of the dashboard is as under:
+        
+
+ <img width="590" alt="power bi dash global" src="https://github.com/user-attachments/assets/0a16abb2-8a02-468f-8f6b-995dd8902833">
+
+**Key findings and insight:**
+
+       1.Total Summary:
+       
+          *	Total Orders: 25,000 orders have been placed.
+          * Total Sales: $9.48 million in sales.
+          * Total Profit: $1.09 million in profit.
+
+       2. Percent of Shipping Based on Ship Mode:
+       
+          * Standard Class is the most used shipping method,while same day is less common, possibly due to higher costs.
+
+       3. Sales by State:
+       
+          * The map highlights sales distribution across different states worldwide.
+          * Sales appear concentrated in North America and parts of Asia, indicating high-performing regions.
+          
+       4. Sales by City:
+   
+          * New York and Los Angeles are the top cities for sales.
+
+       5. Sales by Region & Market:
+       
+          * Sales vary by region and market.This segmentation helps to understand how different markets contribute to the overall sales.
+          
+       6. Top 5 Products by Sales:
+       
+          * Apple, Cisco, Motorola, Nokia, and Honeywell products are the top sellers.
+          * These products are contributing most to sales. This information could be used for focusing on high-demand items.
+          
+       7. Top 5 Products by Profit:
+       
+         * Motorola and Cisco products are highly profitable.
+         * Motorola and Cisco not only drive sales but also deliver high profits, making them key products for business growth.
+         
+8. Filters
+•	Available Filters: Year, Country, Category, and Product Name.
+•	Insight: These filters allow stakeholders to drill down into specific time periods, regions, or products to get more tailored insights from the data.
+•	Insight: These major cities drive significant revenue, suggesting potential areas for targeted marketing or resource allocation.
