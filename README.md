@@ -68,8 +68,8 @@
           * Total Sales: $9.48 million in sales.
           * Total Profit: $1.09 million in profit.
           
-       2. Filters
-         *	Filteres for Year, Country, Category, and Product Name to drill down into specific time periods, regions,
+       2. Slicers
+         *	We have slicers for Year, Country, Category, and Product Name to drill down into specific time periods, regions,
            or products to get more tailored insights from the data.
 
        3. Percent of Shipping Based on Ship Mode:
